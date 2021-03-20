@@ -1,6 +1,0 @@
-
-def gg():
-
-
-
-  print("sfdfsdfsfassf")
